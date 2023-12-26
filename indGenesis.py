@@ -25,9 +25,6 @@ class Individual:
         self.y += dy
 
 
-
-
-
 #  AUTHORSHIP:
 # Name: Eduardo Ribeiro da Cunha
 # Email: edurcunha@gmail.com
